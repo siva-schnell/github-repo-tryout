@@ -8,4 +8,7 @@ void main()
 
     //Update in main repo
     printf("This is an update in main repo");
+
+    //Adding more lines to the main repo
+    printf("This line is added after fork sync");
 }
