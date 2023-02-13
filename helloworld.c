@@ -10,4 +10,7 @@ void main()
     printf("This is in forked repo");
 
     //Added more lines to the fork
+    
+    //Update in main repo
+    printf("This is an update in main repo");
 }
