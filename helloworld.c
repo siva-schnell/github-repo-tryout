@@ -18,4 +18,8 @@ void main()
     printf("This line is added after fork sync");
 
     //Adding more lines after sync
+
+
+    //This line is added in the develop branch
+    printf("Hi from develop branch");
 }
